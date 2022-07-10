@@ -1,11 +1,4 @@
-<script>
-  var typed = new Typed(".auto-type", {
-      strings: ["Mukesh", "Coding", "Unstoppable"],
-      typeSpeed: 150,
-      backSpeed: 150,
-      loop: true
-    })
-  </script>
+
 <html>
   <h1 class="text-center">I'm <span class="auto-type"></span></h1>
 <div id="header" align="center" >
