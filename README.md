@@ -1,6 +1,6 @@
 
 <html>
-  <h1 class="text-center">I'm <span class="auto-type"></span></h1>
+  <h1 class="text-center">Hello <strong style="color:yellow">Programmers</strong></h1>
 <div id="header" align="center" >
   <img src="https://media.giphy.com/media/KxbZ21Jnz4YdaLN2co/giphy.gif" alt= width="200px" height="200px">
 </div>
