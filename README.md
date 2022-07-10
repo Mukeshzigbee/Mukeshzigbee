@@ -16,7 +16,7 @@
   </a>
 </div>
   <div align="center">
-  <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="600" height="400"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 </div>
 
 ---
