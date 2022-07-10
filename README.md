@@ -1,5 +1,13 @@
-### Hi there 👋
+<script>
+  var typed = new Typed(".auto-type", {
+      strings: ["Mukesh", "Coding", "Unstoppable"],
+      typeSpeed: 150,
+      backSpeed: 150,
+      loop: true
+    })
+  </script>
 <html>
+  <h1 class="text-center">I'm <span class="auto-type"></span></h1>
 <div id="header" align="center" >
   <img src="https://media.giphy.com/media/KxbZ21Jnz4YdaLN2co/giphy.gif" alt= width="200px" height="200px">
 </div>
