@@ -21,6 +21,16 @@
 
 ---
 
+### :man_technologist: About Me :
+I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: Working on frontend and backend for building web applications.
+
+- :seedling: Exploring on New Technology and developing my skills.
+
+- :zap: In my free time, I solve code related problems and read tech articles.
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
